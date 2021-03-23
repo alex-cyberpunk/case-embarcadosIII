@@ -1,0 +1,4 @@
+O dois arquivos podem ser executados simultaneamente pelo ubuntu como o comando:
+$ python3 parte_python.py & ./myscript.sh
+
+-coloquei um arquivo reserva do script em shell caso não abra o arquivo sh.
